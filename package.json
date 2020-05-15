@@ -11,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "base64url": "^3.0.1",
     "did-siop": "^1.1.0",
     "nodemon": "^2.0.4"
   },

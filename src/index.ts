@@ -1,5 +1,4 @@
 const DID_SIOP = require('did-siop');
-const base64url = require('base64url');
 
 let siop_rp: any = undefined;
 let request: any;

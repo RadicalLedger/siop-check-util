@@ -12,7 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "did-siop": "^1.1.0",
-    "nodemon": "^2.0.4"
+    "ethr-did": "^1.1.0",
+    "nodemon": "^2.0.4",
+    "web3": "^1.2.7",
+    "web3-eth-accounts": "^1.2.7"
   },
   "devDependencies": {
     "@types/node": "^13.13.2",

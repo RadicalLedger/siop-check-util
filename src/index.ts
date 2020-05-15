@@ -1,5 +1,5 @@
 const DID_SIOP = require('did-siop');
-const CONFIGS = require('./params.ts');
+const CONFIGS = require('./params');
 
 let siop_rp: any = undefined;
 let request: any;
